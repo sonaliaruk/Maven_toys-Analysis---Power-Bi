@@ -28,4 +28,6 @@ Key Objectives:
 
 [📢 There's more to uncover! Read the full presentation for more details ➡](https://gamma.app/docs/Maven-Toys-Sales-Inventory-Analysis-Project-27uatfm54uvxzqj?mode=doc)
 
-![Dashboard Preview](https://gamma.app/docs/Maven-Toys-Sales-Inventory-Analysis-Project-27uatfm54uvxzqj?mode=doc)
+# Dashboard 
+
+![Dashboard Preview](https://github.com/sonaliaruk/Maven_toys-Analysis---Power-Bi/blob/main/Screenshot%202025-09-27%20195002.png)
