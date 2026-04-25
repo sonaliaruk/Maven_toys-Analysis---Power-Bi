@@ -30,4 +30,4 @@ Key Objectives:
 
 # Dashboard 
 
-![Dashboard Preview](https://github.com/sonaliaruk/Maven_toys-Analysis---Power-Bi/blob/a5b0fba0181b18fd6d1b3e012605860c9258c1ea/image_2026-04-25_213924962.png)
+![Dashboard Preview](https://github.com/sonaliaruk/Maven_toys-Analysis---Power-Bi/blob/a1746e8822bbe1616cc72ff8b7787209ee3a5f78/image_2026-04-26_001311482.png)
