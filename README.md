@@ -26,7 +26,7 @@ Key Objectives:
 * **Inventory Optimization:** Identify low-stock and overstock situations to minimize missed sales opportunities and reduce excess inventory costs.
 * **Store Performance Monitoring**: Compare stores by revenue, profit, and operational metrics to identify underperforming locations and growth opportunities.
 
-[📢 There's more to uncover! Read the full presentation for more details ➡](https://github.com/sonaliaruk/Maven_toys-Analysis---Power-Bi/blob/264b4ffdbb5366fd85cbe378113c4595fc529f37/image_2026-05-19_210025272.png)
+[📢 There's more to uncover! Read the full presentation for more details ➡](https://github.com/sonaliaruk/Maven_toys-Analysis---Power-Bi/blob/33034e090e0c16e7cf900f0490e6b37fc2611e14/Toy%20Store%20analysis%20Presentation.pdf)
 
 # Dashboard 
 
